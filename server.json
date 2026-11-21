@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.aiphotoshoot/mcp",
+  "title": "AI Photoshoot",
+  "description": "Create AI photoshoots, headshots and photo edits with your AI Photoshoot credits.",
+  "websiteUrl": "https://aiphotoshoot.com",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://aiphotoshoot.com/mcp"
+    }
+  ]
+}
